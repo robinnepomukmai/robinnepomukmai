@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning how to build SaaS products.
+- 🔭 &nbsp; I’m build SaaS products.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; IT specialist for system integration.
-- 💼 &nbsp; Founder, CEO and software developer.
+- 💼 &nbsp; Founder, CEO and software developer @ [Nepomuk Software](https://nepomuksoftware.de).
 - 🌱 &nbsp; Enthusiast in cloud native software and infrastructure.
-- ✍️ &nbsp; Playing soccer, driving electric cars and enjoying time with my family.
+- ✍️ &nbsp; Playing soccer, driving cars and enjoying time with my family.
 - ☕ &nbsp; There is no problem, which can't be solved with enough coffee.
 
 <h3>🛠 Tech Stack</h3>
